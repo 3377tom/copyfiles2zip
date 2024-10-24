@@ -1,0 +1,9 @@
+C:\Users\de\source\repos\CopyFiles2Zip\CopyFiles2Zip\bin\x64\Debug\CopyFiles2Zip.exe.config
+C:\Users\de\source\repos\CopyFiles2Zip\CopyFiles2Zip\bin\x64\Debug\CopyFiles2Zip.exe
+C:\Users\de\source\repos\CopyFiles2Zip\CopyFiles2Zip\bin\x64\Debug\CopyFiles2Zip.pdb
+C:\Users\de\source\repos\CopyFiles2Zip\CopyFiles2Zip\bin\x64\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\de\source\repos\CopyFiles2Zip\CopyFiles2Zip\obj\x64\Debug\CopyFiles2Zip.csproj.CoreCompileInputs.cache
+C:\Users\de\source\repos\CopyFiles2Zip\CopyFiles2Zip\obj\x64\Debug\CopyFiles2Zip.csproj.CopyComplete
+C:\Users\de\source\repos\CopyFiles2Zip\CopyFiles2Zip\obj\x64\Debug\CopyFiles2Zip.exe
+C:\Users\de\source\repos\CopyFiles2Zip\CopyFiles2Zip\obj\x64\Debug\CopyFiles2Zip.pdb
+C:\Users\de\source\repos\CopyFiles2Zip\CopyFiles2Zip\obj\x64\Debug\CopyFiles2Zip.csproj.AssemblyReference.cache

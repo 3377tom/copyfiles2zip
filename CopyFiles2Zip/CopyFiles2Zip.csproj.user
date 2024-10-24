@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>“C:\Users\de\AppData\Local\Programs\Python\Python311” “C:\Users\de\Desktop\pyinstaller\venv1\cpython\PCbuild\amd64” “C:\Users\de\Desktop\temp" “C:\Users\de\Desktop\temp\py311.zip"</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <StartArguments>“C:\Users\de\AppData\Local\Programs\Python\Python311” “C:\Users\de\Desktop\pyinstaller\venv1\cpython\PCbuild\amd64” “C:\Users\de\Desktop\temp" “C:\Users\de\Desktop\temp\py311.zip"</StartArguments>
+    <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
+  </PropertyGroup>
+</Project>
